@@ -12,7 +12,8 @@ Hotkeys.
 ==============================================================================================
 There is no ingame input to navigate menus so it's hard to handle. 
 Press [ENTER] only if the option is highlighted. 
-I don't recommend to use it in Main Menu. 
+Debug Menus have different options in Main Menu and levels.
+If you out of the selected menu just press the up navigation button for current lvl.
 Use my patch wisely.
 Menus with 3rd and 4th levels: Boss - Debug - Player.
 DON'T FORGET TO MAKE A BACKUP OF GameCore_Win32Steam_Release.dll.
